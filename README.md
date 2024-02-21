@@ -12,3 +12,11 @@ Además se presentó un reporte que contiene la siguiente información:
 ❷ Amazon | Feeling, rating
 
 ❸ Amazon | Review, product
+
+# ➞ Herramientas que se usaron
+
+❏ Big Query (SQL)
+
+❏ Google Colab (Python)
+
+❏ Power BI
