@@ -15,8 +15,8 @@ Además se presentó un reporte que contiene la siguiente información:
 
 # ➞ Herramientas que se usaron
 
-❏ Big Query (SQL)
+❏ BigQuery (SQL)
 
 ❏ Google Colab (Python)
 
-❏ Power BI
+❏ PowerBI
