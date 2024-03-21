@@ -1,4 +1,5 @@
-# Amazon Sales
+# <h1 align="center">Análisis de las reviews de <img src="https://github.com/MayteLlerena/Amazon_sales/blob/main/amazon.png" width="130"> sales </h1>
+
 El proyecto se centra en analizar minuciosamente las reseñas de productos en Amazon para identificar características positivas y negativas señaladas por los usuarios. 
 El objetivo es recopilar información detallada para evaluar la viabilidad de implementar mejoras, proporcionando datos clave para la toma de decisiones y la optimización de productos, 
 con el fin de elevar la calidad general de las ofertas de la empresa.
