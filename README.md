@@ -44,5 +44,11 @@ Los datos provienen de un repositorio en Kaggle: 'https://bit.ly/3OM11es'
 
 Aquí 'https://bit.ly/3VnAeJr'
 
+## Dashboard en Looker Studio
+
+![Amazon - category](https://raw.githubusercontent.com/MayteLlerena/Amazon_sales/main/Amazon%20-%20category.png)
+![Amazon - feeling, rating](https://raw.githubusercontent.com/MayteLlerena/Amazon_sales/main/Amazon%20-%20feeling%2C%20rating.png)
+![Amazon - review, product](https://raw.githubusercontent.com/MayteLlerena/Amazon_sales/main/Amazon%20-%20review%2C%20product.png)
+
 
 
